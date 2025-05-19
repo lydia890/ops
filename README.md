@@ -1,6 +1,6 @@
 # ops
 
-hello world
+hello world (c program)
 
 c program of adddition of two numbers
 Addition of two numbers
